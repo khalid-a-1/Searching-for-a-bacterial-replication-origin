@@ -1,6 +1,6 @@
 # CS 309: Computational Biology
 
-### Fall, 2021
+### Fall 2021
 
 ## Lab 1: Searching for a bacterial replication origin
 
@@ -52,3 +52,5 @@ For this lab, you will attempt to locate the origin of replication (ori) in a ch
     is its reverse complement. 
     Finally, apply your function to find the most frequent 9-mers with 1–2 mismatches in the 500
     bp windows that you considered previously.
+   
+# For more information, read lab1.pdf
